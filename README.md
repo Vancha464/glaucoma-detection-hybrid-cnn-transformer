@@ -2,7 +2,7 @@
 
 A deep learning system for automated glaucoma screening from retinal fundus images, combining dual CNN backbones (VGG16 + DenseNet121) with a Transformer encoder for improved local-global feature extraction. Includes Grad-CAM explainability and a Streamlit deployment with LLaMA3-powered clinical explanations.
 
-> **Paper submitted to Springer Nature International Ophthalmology
+> **Paper submitted to Springer Nature International Ophthalmology** 
 
 ---
 

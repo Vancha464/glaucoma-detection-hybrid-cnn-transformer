@@ -1,0 +1,9 @@
+tensorflow>=2.12
+numpy
+matplotlib
+seaborn
+scikit-learn
+kagglehub
+streamlit
+groq
+opencv-python

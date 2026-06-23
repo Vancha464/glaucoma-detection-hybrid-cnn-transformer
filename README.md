@@ -2,7 +2,7 @@
 
 A deep learning system for automated glaucoma screening from retinal fundus images, combining dual CNN backbones (VGG16 + DenseNet121) with a Transformer encoder for improved local-global feature extraction. Includes Grad-CAM explainability and a Streamlit deployment with LLaMA3-powered clinical explanations.
 
-> **Paper submitted to Springer Nature Scientific Data** — Submission ID: `ff93287c-30ac-4a30-9aae-f7fb91c72012` (April 26, 2026)
+> **Paper submitted to Springer Nature International Ophthalmology
 
 ---
 
@@ -172,5 +172,5 @@ If you use this work, please cite:
 ```
 Garg, V., Biswas, S., & Ray, A. (2026). Hybrid CNN–Transformer Framework for 
 Automated Glaucoma Detection Using Retinal Fundus Images. 
-Submitted to Springer Nature Scientific Data.
+Submitted to Springer Nature International Ophthalmology.
 ```
